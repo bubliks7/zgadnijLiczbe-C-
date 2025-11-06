@@ -1,4 +1,4 @@
-#include <iostream>
+'#include <iostream>
 using namespace std;
 
 void ZgadnijLiczbe()
@@ -28,6 +28,7 @@ void ZgadnijLiczbe()
         }
     }
 }
+
 int main()
 {
     ZgadnijLiczbe();
