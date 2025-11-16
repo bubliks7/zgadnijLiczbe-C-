@@ -28,9 +28,11 @@ void ZgadnijLiczbe()
         }
     }
 }
+
 int main()
 {
     ZgadnijLiczbe();
     return 0;
 
 };
+
